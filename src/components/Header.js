@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.css";
-import profilepic from '../assets/profilepic.png'; 
+import profilepic from '../assets/profilepic.jpg'; 
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Image from 'react-bootstrap/Image'

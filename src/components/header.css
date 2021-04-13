@@ -4,7 +4,7 @@ header img {
 }
 body {
     height: 125vh;
-    /* background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg'); */
+    
     background-size: cover;
     font-family: sans-serif;
     margin-top: 80px;
