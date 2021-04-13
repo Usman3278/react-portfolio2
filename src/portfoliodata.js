@@ -36,7 +36,7 @@ let portfolioData = {
                 "description": "The purpose of this application is to provide tourists help in guidance finding delicious foods, location of resturants and 5 days forcast.",
                 "img": TravelGuideWebsite,
                 "repolink": "https://github.com/Usman3278/group_project",
-                "tech": "HTML, CSS, Moment JS Javascript, JQuery, HTML, CSS, API"
+                "tech": "HTML, CSS, Moment JS Javascript, JQuery, API"
             },
             {
                 "name": "BugTesters_Project2",

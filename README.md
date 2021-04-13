@@ -13,12 +13,10 @@ The application can alternatively be run as a deployed application following the
 
 React
 Bootstrap
-HashRouter
-axios
+Router
 HTML
 CSS
 Javascript
-Github pages
 Bootstrap
 
 # Deployment
@@ -31,7 +29,7 @@ https://github.com/Usman3278/reactportfolio
 
 # Heroku Deploy Link: 
  
- https://serene-tor-54768.herokuapp.com/
+ https://serene-tor-54768.herokuapp.com/ 
 
 # Screenshots:   
 
