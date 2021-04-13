@@ -33,7 +33,7 @@ let portfolioData = {
             },
             {
                 "name": "Travel Guide Website-Project1",
-                "description": "Use the app to add sprints, add employees and managers to sprints, and keep track of your progress and employees as your project progresses.",
+                "description": "The purpose of this application is to provide tourists help in guidance finding delicious foods, location of resturants and 5 days forcast.",
                 "img": TravelGuideWebsite,
                 "repolink": "https://github.com/Usman3278/group_project",
                 "tech": "HTML, CSS, Moment JS Javascript, JQuery, HTML, CSS, API"
